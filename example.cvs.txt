@@ -1,0 +1,9 @@
+Name,Date of Birth,Married,Phone,Salary
+Alice Smith,1990-05-12,true,+1234567890,55000.00
+Bob Johnson,1985-03-30,false,+0987654321,62000.50
+Carol Williams,1978-11-25,true,+1122334455,75000.75
+David Brown,1992-01-15,false,+2233445566,48000.00
+Eva Davis,1988-07-19,true,+3344556677,72000.20
+Frank Miller,1980-09-05,false,+4455667788,60000.00
+Grace Wilson,1995-04-22,true,+5566778899,51000.90
+Henry Moore,1983-12-14,false,+6677889900,58000.30
